@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/triptoss/static/css/main.c9c45107.css",
+    "main.js": "/triptoss/static/js/main.ac7589e4.js",
+    "static/js/453.ad6eb26e.chunk.js": "/triptoss/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/triptoss/index.html",
+    "main.c9c45107.css.map": "/triptoss/static/css/main.c9c45107.css.map",
+    "main.ac7589e4.js.map": "/triptoss/static/js/main.ac7589e4.js.map",
+    "453.ad6eb26e.chunk.js.map": "/triptoss/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9c45107.css",
+    "static/js/main.ac7589e4.js"
+  ]
+}
